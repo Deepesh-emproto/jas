@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: normal normal 300 24px/28px Roboto;
+    line-height: inherit;
+}
+.InputBar{
+    border: 1px solid black;
+}
+.ImageThing{
+    margin-top: 0px;
+    margin-top: 20px;
+}
